@@ -1,0 +1,6 @@
+build/
+cmake-build-*/
+.rewire/
+.DS_Store
+*.o
+*.dSYM
